@@ -9,7 +9,7 @@ export default function Nav()
         <div className="conatct cursor-pointer">Contact us</div>
     </nav>
         <h1 className="text-2xl text-center text-rose-50"><span className="font-light">Welcome to</span> <br/>
-        <span className="font-mono font-bold">Restart Sience Classes</span> <br />
+        <span className="font-mono font-bold">Restart Science Classes</span> <br />
         <span className="text-sm">Your future, our commitment.</span> </h1>
         </>
     );
